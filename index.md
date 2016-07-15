@@ -7,7 +7,7 @@ layout: page
 
 {% include JB/setup %}
 
-{{testing_siteleaf}}
+{{ testing_siteleaf }}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
