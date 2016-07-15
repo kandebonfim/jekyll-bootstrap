@@ -1,7 +1,8 @@
 ---
 title: Hello World!
-layout: page
 tagline: Supporting tagline
+testing_siteleaf: siteleaf works!
+layout: page
 ---
 
 {% include JB/setup %}
