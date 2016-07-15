@@ -5,9 +5,9 @@ testing_siteleaf: siteleaf works!
 layout: page
 ---
 
-{{testing_siteleaf}}
-
 {% include JB/setup %}
+
+{{testing_siteleaf}}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
